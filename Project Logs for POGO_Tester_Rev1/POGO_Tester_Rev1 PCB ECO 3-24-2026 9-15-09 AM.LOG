@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=J1A Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1B Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1C Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1D Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1E Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1F Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1G Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Footprint: Designator=J1H Old Footprint=SAMTEC_GMI-30-2-1.27-G-10 New Footprint=SAMTEC_GMI-30-2-1.27-G-10 - No Holes
+Change Component Library : Designator=J1A Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1B Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1C Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1D Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1E Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1F Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1G Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib
+Change Component Library : Designator=J1H Old Library=Avery Altium Llibrary.IntLib New Library=Avery Schem Library.SchLib

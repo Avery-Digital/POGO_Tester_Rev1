@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\PCB Projects\POGO_Tester_Rev1\POGO_Tester_Rev1.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=pogo_tester_rev1-roundholes-plated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=pogo_tester_rev1-roundholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,gbl
+LayersSetName=Top_Bot_NonPlated_Slot_Holes|DrillFile=pogo_tester_rev1-slotholes-nonplated.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,g7,g8,gbl

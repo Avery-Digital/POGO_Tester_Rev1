@@ -1,0 +1,7 @@
+Added Component: Designator=TP1(250milx400mil)
+Added Component: Designator=TP2(250milx400mil)
+Added Pin To Net: NetName=GND Pin=TP1-1
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Class: Name=POGO_Tester_Rev1_Top_Level
+Added Member To Class: ClassName=CONH Member=Component R1H (R1) RCS040239K0FKED
+Added Member To Class: ClassName=CONH Member=Component R19H (R19) RCS040239K0FKED

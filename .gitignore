@@ -1,3 +1,27 @@
+# Altium auto-generated backups and project state
 History/
-POGO_Tester_Rev1 - 3-27-2026.step
-POGO_Tester_Rev1.PrjPcbStructure
+__Previews/
+*.PrjPcbStructure
+Project Logs for POGO_Tester_Rev1/
+Project Outputs for POGO_Tester_Rev1/
+
+# Generated manufacturing outputs
+*.Cam
+GERBERX2/
+NC DRILL/
+ODB++/
+PICK AND PLACE FILES/
+POGO_Tester_Rev1 - Fab Files Rev1/
+POGO_Tester_Rev1 - Fab Files Rev1.zip
+
+# Mechanical STEP snapshots
+*.step
+*.STEP
+
+# Draftsman binaries and generated drawing PDFs
+*.PCBDwf
+POGO_Tester_Rev1 - Assembly Drawing.pdf
+POGO_Tester_Rev1 - Fabrication Drawing.pdf
+
+# DXF reference drawings
+*.dxf
